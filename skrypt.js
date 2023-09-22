@@ -1,0 +1,1 @@
+const ref=document.getElementById('idx');
