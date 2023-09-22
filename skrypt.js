@@ -1,1 +1,5 @@
-const ref=document.getElementById('idx');
+class auto{
+    constructor(v1){
+        this.marka=v1
+    }
+}
