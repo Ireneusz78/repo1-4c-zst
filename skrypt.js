@@ -1,0 +1,1 @@
+function test(){let a=5;}
